@@ -1,0 +1,7 @@
+name: ArcturusPhoenixF3N
+author: ArcturusPhoenix
+website: 'https://www.arcturusphoenix.net'
+
+version: 2.0.2023
+description: F3 + N Shortcut für das schnelle Wechseln der Gamemodes.
+main: net.arcturusphoenix.f3n.main.Main
